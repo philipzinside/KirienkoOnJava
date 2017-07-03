@@ -1,5 +1,3 @@
-package console;
-
 package ru.task._2;
 
 /* 2N
